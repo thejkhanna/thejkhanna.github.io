@@ -7,8 +7,6 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-<div style="max-width: 800px; margin: 0 auto; padding: 20px;," markdown = "1">
-
 ### **Contact Information**
 [thejkkhanna@gmail.com](mailto:thejkkhanna@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/thejkhanna/)
@@ -61,5 +59,3 @@ horizontal: false
 ### **Skills & Interests**
 **Interests:** Data Privacy • Consumer Protection • Artificial Intelligence • Violin • Philosophy • Poetry • Crossword Puzzles • Cooking
 **Skills:** Microsoft Excel • PowerPoint • STATA • Python • Policy Analysis • Communications • Project Management • Westlaw
-
-</div>

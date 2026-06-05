@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-<div style="max-width: 800px; margin: 0 auto; padding: 20px;">
+<div style="max-width: 800px; margin: 0 auto; padding: 20px;," markdown = "1">
 
 ### **Contact Information**
 [thejkkhanna@gmail.com](mailto:thejkkhanna@gmail.com)

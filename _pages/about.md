@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: thejkkhanna@gmail.com | <a href="https://www.linkedin.com/in/thejkhanna/">LinkedIn</a>
 
 profile:
   align: right
@@ -29,3 +28,5 @@ Recent Cornell grad interested in agentic AI, cybersecurity, data privacy, and t
 Research Asisstant at the [Digital Due Process Clinic](https://dueprocess.sts.cornell.edu/) @ Cornell University, working on the [Humans of AI](https://dueprocess.sts.cornell.edu/humans-of-ai/) project.
 
 Product Management Intern @ [Ocient](https://dueprocess.sts.cornell.edu/).
+
+I can be reached at [thejkkhanna@gmail.com](thejkkhanna@gmail.com) or at [LinkedIn](https://www.linkedin.com/in/thejkhanna/">LinkedIn)

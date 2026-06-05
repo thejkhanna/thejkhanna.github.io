@@ -6,12 +6,12 @@ description: overview of my past education, past work experiences, and interests
 nav: true
 nav_order: 3
 horizontal: false
-align: center
 ---
+<div style="max-width: 800px; margin: 0 auto; padding: 20px;">
 
 ### **Contact Information**
-[thejkkhanna@gmail.com](thejkkhanna@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/thejkhanna/">LinkedIn)
+[thejkkhanna@gmail.com](mailto:thejkkhanna@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thejkhanna/)
 
 ### **Education**
 **Cornell University, College of Arts & Sciences (2022-2026)**\
@@ -19,25 +19,25 @@ align: center
 
 ### **Work Experience**
 **Digital Due Process Clinic (Remote)**\
-*Research Assistant, January 2026 - Present*\
+*Research Assistant, January 2026 - Present*
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 
 **Ocient (Remote)**\
-*Product Management Intern, August 2025 - Present*\
+*Product Management Intern, August 2025 - Present*
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 
 **Appeals Bureau - Bronx District Attorney's Office (Bronx, NY)**\
-*Summer Intern, June 2025 - July 2025*\
+*Summer Intern, June 2025 - July 2025*
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 
 **Surveillance Technology Oversight Project (Remote)**\
-*Research and Advocacy Intern, August 2024 - May 2025*\
+*Research and Advocacy Intern, August 2024 - May 2025*
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
 - [ADD IN ITEMS]
@@ -61,3 +61,5 @@ align: center
 ### **Skills & Interests**
 **Interests:** Data Privacy • Consumer Protection • Artificial Intelligence • Violin • Philosophy • Poetry • Crossword Puzzles • Cooking
 **Skills:** Microsoft Excel • PowerPoint • STATA • Python • Policy Analysis • Communications • Project Management • Westlaw
+
+</div>

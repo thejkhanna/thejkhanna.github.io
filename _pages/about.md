@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -25,8 +25,6 @@ latest_posts:
 
 Recent Cornell grad interested in agentic AI, cybersecurity, data privacy, and tech policy.
 
-Research Asisstant at the [Digital Due Process Clinic](https://dueprocess.sts.cornell.edu/) @ Cornell University, working on the [Humans of AI](https://dueprocess.sts.cornell.edu/humans-of-ai/) project.
+Currently a Research Assistant at the [Digital Due Process Clinic](https://dueprocess.sts.cornell.edu/) @ Cornell University, working on the [Humans of AI](https://dueprocess.sts.cornell.edu/humans-of-ai/) project, and a Product Management Intern @ [Ocient](https://ocient.com/).
 
-Product Management Intern @ [Ocient](https://dueprocess.sts.cornell.edu/).
-
-I can be reached at [thejkkhanna@gmail.com](thejkkhanna@gmail.com) or at [LinkedIn](https://www.linkedin.com/in/thejkhanna/">LinkedIn)
+I can be reached at [thejkkhanna@gmail.com](thejkkhanna@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/thejkhanna/">LinkedIn)

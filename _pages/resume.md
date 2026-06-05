@@ -4,8 +4,9 @@ title: resume
 permalink: /resume/
 description: overview of my past education, past work experiences, and interests
 nav: true
-nav_order: 5
+nav_order: 3
 horizontal: false
+align: center
 ---
 
 ### **Contact Information**

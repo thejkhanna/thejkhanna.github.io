@@ -4,7 +4,6 @@ title: projects
 permalink: /projects/
 description: collected projects i've been working on
 nav: false
-nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
